@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/devendradevops5/devprooject/_apis/build/status%2Fdevendrasahu55555-arch.nm?branchName=main)](https://dev.azure.com/devendradevops5/devprooject/_build/latest?definitionId=12&branchName=main)
